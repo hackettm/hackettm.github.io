@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: rgba(148,186,233,.75);
+ /* background-color: rgba(148,186,233,.75);*/
 }
 body {
   color: #fff;
