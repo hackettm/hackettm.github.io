@@ -48,7 +48,7 @@ body {
   min-height: 100%;
 }
 .site-wrapper-inner {
-  background: url(../washed_out_well.png) no-repeat center center scroll;
+  background: url(../old_well.png) no-repeat center center scroll;
   
   -webkit-background-size: cover;
   -moz-background-size: cover;
