@@ -27,16 +27,16 @@ a:hover {
 html,
 body {
   height: 100%;
-  /*background-color: rgb(148,186,233);*/
+  background-color: rgba(148,186,233,.22);
 }
 body {
   color: #fff;
 
   text-align: center;
-  /*text-shadow: 0 1px 3px rgba(0,0,0,.5);*/
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
   box-shadow: inset 0 0 100px rgba(0,0,0,.5);
   font-family:'century gothic';
-  color:#000000;
+
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
