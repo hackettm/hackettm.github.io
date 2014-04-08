@@ -14,7 +14,7 @@ a:hover {
 .btn-default:hover,
 .btn-default:focus {
   text-shadow: none; /* Prevent inheritence from `body` */
-  background-color: rgb(150, 150, 150);
+  background-color: rgb(200,200,200);
   font-weight:bold;
 }
 
