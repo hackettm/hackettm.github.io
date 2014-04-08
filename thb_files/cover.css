@@ -43,8 +43,8 @@ body {
 
   display: table;
   width: 100%;
-  height: 100%; /* For at least Firefox */
-  min-height: 100%;
+  height: 90%; /* For at least Firefox */
+  min-height: 90%;
 }
 .site-wrapper-inner {
   background: url(../old_well.png) no-repeat center center scroll;
