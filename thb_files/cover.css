@@ -16,7 +16,6 @@ a:hover {
   text-shadow: none; /* Prevent inheritence from `body` */
   background-color: rgb(200,200,200);
   font-weight:bold;
-  color:#fff;
 }
 
 
